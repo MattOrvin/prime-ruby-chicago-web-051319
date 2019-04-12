@@ -1,3 +1,3 @@
 def prime?(number)
-  (>1..<number)
+  (2..number)
 end
