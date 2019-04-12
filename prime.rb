@@ -1,3 +1,3 @@
 def prime?(number)
-  range(number)
+  number
 end
