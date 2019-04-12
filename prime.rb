@@ -1,7 +1,7 @@
 
 
 def prime?(number)
-  if number < 0
+  if number <= 0
     false
   else
   prime_test = (2...number).to_a
