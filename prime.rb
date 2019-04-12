@@ -9,3 +9,4 @@ def prime?(number)
     number % element != 0
 end
 end
+end
